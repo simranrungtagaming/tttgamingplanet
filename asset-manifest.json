@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tttgamingplanet/static/css/main.9314aa7c.chunk.css",
+    "main.js": "/tttgamingplanet/static/js/main.26ee5b23.chunk.js",
+    "main.js.map": "/tttgamingplanet/static/js/main.26ee5b23.chunk.js.map",
+    "runtime-main.js": "/tttgamingplanet/static/js/runtime-main.d1a12951.js",
+    "runtime-main.js.map": "/tttgamingplanet/static/js/runtime-main.d1a12951.js.map",
+    "static/js/2.9ead5ae3.chunk.js": "/tttgamingplanet/static/js/2.9ead5ae3.chunk.js",
+    "static/js/2.9ead5ae3.chunk.js.map": "/tttgamingplanet/static/js/2.9ead5ae3.chunk.js.map",
+    "index.html": "/tttgamingplanet/index.html",
+    "precache-manifest.12e1df06fa9d7e828c70c0281fde2d12.js": "/tttgamingplanet/precache-manifest.12e1df06fa9d7e828c70c0281fde2d12.js",
+    "service-worker.js": "/tttgamingplanet/service-worker.js",
+    "static/css/main.9314aa7c.chunk.css.map": "/tttgamingplanet/static/css/main.9314aa7c.chunk.css.map",
+    "static/js/2.9ead5ae3.chunk.js.LICENSE.txt": "/tttgamingplanet/static/js/2.9ead5ae3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a12951.js",
+    "static/js/2.9ead5ae3.chunk.js",
+    "static/css/main.9314aa7c.chunk.css",
+    "static/js/main.26ee5b23.chunk.js"
+  ]
+}
